@@ -1,4 +1,4 @@
-package com.liuyouchao.designpatterns;
+package com.liuyouchao;
 
 /**
  * Hello world!
